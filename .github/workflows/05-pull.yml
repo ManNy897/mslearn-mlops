@@ -8,7 +8,7 @@ jobs:
     - name: Placeholder
       run: |
         echo "Will add code checks here in next challenge"
-  job1:
+  job2:
     - name: linting
       runs-on: ubuntu-latest
       steps:
